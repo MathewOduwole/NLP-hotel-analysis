@@ -18,7 +18,9 @@ Make sure you have the following prerequisites installed:
 - Jupyter Notebook
 - Required Python libraries (listed in the code)
 
+### Dataset
 
+The dataset had to be compressed because of the size, however it can still be downloaded and used to replicate the project.
 
 
 ## Results
